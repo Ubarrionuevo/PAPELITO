@@ -137,3 +137,4 @@ El proyecto está diseñado como **template base** que se puede copiar y persona
 **Nota**: Este proyecto está orientado al sector salud (estética/dentista/clínica) según las preferencias del usuario, aunque actualmente el ejemplo es de colorización de bocetos. El template es completamente adaptable a cualquier tipo de negocio o servicio.
 
 
+
